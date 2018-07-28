@@ -1,8 +1,8 @@
 # dir-tree made by programmarQin
 > A tree component base on Elementui
 
-属性:
-名称                 类型       
+#属性:
+#名称                 #类型       
 dataarr         array []    加载树图所需数组
                 id          节点id,唯一标识
                 label       节点名称
@@ -11,8 +11,8 @@ defaultsel      array []    树图默认选中项
                 {}
 defaultChecked  array []    左侧选中树图id
 visibledismiss  Boolean     是否展示取消按钮
-方法:
-名称                返回值
+#方法:
+#名称                #返回值
 tree-submit     data(Array[]) 选中项              提交按钮事件
 close-modal     无               无                关闭模态框，取消按钮事件     
 ## Build Setup
