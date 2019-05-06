@@ -15,8 +15,8 @@ visibledismiss|Boolean|是否展示取消按钮
 ```
 ```
 ## 方法:
--|-|-|
 名称 (method name)|返回值(value the method return)|注释(describe)
+-|-|-|
 tree-submit|data(Array[]) 选中项|提交按钮事件
 close-modal| 无  |  关闭模态框，取消按钮事件     
 ## Build Setup
