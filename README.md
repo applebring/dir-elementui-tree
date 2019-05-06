@@ -1,8 +1,7 @@
-##自定义树图角色管理插件
-> A tree component base on Elementui
-```
-组件属性(component props):
-```
+# 自定义树图角色管理插件
+`A tree component base on Elementui`
+## 组件属性(component props)
+
 ## 配置参数selector,params
 字段(props)|参数值(default value)|注释(describe)
 -|-|-|  
@@ -15,7 +14,7 @@ defaultChecked|array []|左侧选中树图id
 visibledismiss|Boolean|是否展示取消按钮
 ```
 ```
-##方法:
+## 方法:
 -|-|-|
 名称 (method name)|返回值(value the method return)|注释(describe)
 tree-submit|data(Array[]) 选中项|提交按钮事件
