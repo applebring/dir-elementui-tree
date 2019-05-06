@@ -1,7 +1,8 @@
-# dir-tree made by programmarQin
+##自定义树图角色管理插件
 > A tree component base on Elementui
-
-##组件属性(component props):
+```
+组件属性(component props):
+```
 ## 配置参数selector,params
 字段(props)|参数值(default value)|注释(describe)
 -|-|-|  
@@ -12,10 +13,13 @@ searchtext|string|模糊搜索字段，用于输入框模糊搜索
 defaultsel| array []|树图默认选中项
 defaultChecked|array []|左侧选中树图id
 visibledismiss|Boolean|是否展示取消按钮
+```
+```
 ##方法:
-#名称                #返回值
-tree-submit     data(Array[]) 选中项              提交按钮事件
-close-modal     无               无                关闭模态框，取消按钮事件     
+-|-|-|
+名称 (method name)|返回值(value the method return)|注释(describe)
+tree-submit|data(Array[]) 选中项|提交按钮事件
+close-modal| 无  |  关闭模态框，取消按钮事件     
 ## Build Setup
 
 ``` bash
